@@ -16,7 +16,7 @@ In this model, we successfully predicted the efficiency of future traffic using 
 ![imag 3](https://user-images.githubusercontent.com/102891966/233195905-e933dd0e-00a2-46a8-91fd-764057eb7040.jpg)
 
 
-               ## For the Pessimistic model, I assumed that my new visitors would increase by 5% per month, and in the returning users I assumed it would be 40% per month and 15% of Non-bounced new visitors would be returning (after taking the bounce rate from the sessions). From the graph below, we can see that new visitors have increased from 120 to 126 and returning visitors from 30 to 36 in the second month. In the 3rd month, I gained new visitors 133 with returning visitors 41. Pessimistic is the scenario where we are unable to make it up to the customer or the website has some issues. So, in order to avoid this, we must take measures and take feedback from the user. Below graph depicts the Pessimistic Forecasting model.
+For the Pessimistic model, I assumed that my new visitors would increase by 5% per month, and in the returning users I assumed it would be 40% per month and 15% of Non-bounced new visitors would be returning (after taking the bounce rate from the sessions). From the graph below, we can see that new visitors have increased from 120 to 126 and returning visitors from 30 to 36 in the second month. In the 3rd month, I gained new visitors 133 with returning visitors 41. Pessimistic is the scenario where we are unable to make it up to the customer or the website has some issues. So, in order to avoid this, we must take measures and take feedback from the user. Below graph depicts the Pessimistic Forecasting model.
  
 ![imag 4](https://user-images.githubusercontent.com/102891966/233195945-cf4473e7-7495-4a41-9290-23c04360ca85.jpg)
 
